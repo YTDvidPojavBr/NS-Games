@@ -17,3 +17,4 @@ Novidades desta versão:
 🖌️ Tema Claro / Escuro
 --
 🔎 Opção de pesquisa
+--
