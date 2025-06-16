@@ -6,15 +6,3 @@ Voltado para entusiastas e fãs da plataforma, o App serve como um catálogo dig
 
 NS Games é a escolha ideal para quem deseja manter sua experiência com Emuladores Switch ainda mais completa, Além de Ajudar a Otimizar Os Jogos.
 
-📢 Notas Da Atualização 1.0 Beta -- 15/06 
----
-Novidades desta versão:
-
-🎮 Novos Jogos Diariamente
---
-🖥️ Interface Fácil de Usar
---
-🖌️ Tema Claro / Escuro
---
-🔎 Opção de pesquisa
---
